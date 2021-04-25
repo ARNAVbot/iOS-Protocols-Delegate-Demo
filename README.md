@@ -2,5 +2,6 @@
 
 This is a good example to understand 
 * How delegates work
+* How protocols work
 * How to use delegates in an observer like pattern
 * A little abt subclasses
